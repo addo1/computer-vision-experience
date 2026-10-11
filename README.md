@@ -1,4 +1,4 @@
-# Computer Vision Engineering Portfolio
+# Computer Vision Experience
 
 A concise overview of my experience in computer vision, spatial computing, and 3D geometry.
 
