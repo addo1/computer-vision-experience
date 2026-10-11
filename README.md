@@ -18,6 +18,12 @@ A concise overview of my experience in computer vision, spatial computing, and 3
 - 3D geometry
 - Spatial computing
 
+## Tools
+
+- Python, OpenCV, and NumPy
+- Kotlin and Android
+- Jetpack Compose, CameraX, and ARCore
+
 ## Work Samples
 
 Public examples will be added only when I have confirmed they are authorized for release.
