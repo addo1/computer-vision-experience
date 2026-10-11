@@ -1,13 +1,22 @@
-# Software Engineering Portfolio
+# Computer Vision Engineering Portfolio
 
-A brief overview of my general software engineering practice.
+A concise overview of my experience in computer vision, spatial computing, and 3D geometry.
 
-## Practice
+## Experience
 
-- Building and maintaining software
-- Investigating technical problems
-- Testing and debugging
-- Documenting decisions and changes
+### Computer Vision Engineer
+
+*Internship | Feb 2026 - Jun 2026*
+
+- Researched and designed a real-time spatial computing framework.
+- Evaluated geometric and system-level design approaches.
+- Contributed to early-stage prototyping and validation planning.
+
+## Focus Areas
+
+- Computer vision
+- 3D geometry
+- Spatial computing
 
 ## Work Samples
 
